@@ -1,0 +1,66 @@
+
+/*boton Excel*/
+button.buttons-excel {
+  color: #ffff;
+  background-color:#28a745;
+}
+button.buttons-excel:hover {
+  color:black;
+}
+
+/*boton PDF*/
+button.buttons-pdf {
+  color: #ffff;
+  background-color: #dc3545;
+}
+button.buttons-pdf:hover {
+  color:black;
+  
+}
+
+/*boton imprimir*/
+
+button.buttons-print {
+  color: #ffff;
+  background-color: #17a2b8;
+}
+button.buttons-print:hover {
+  color:black;
+  
+}
+.btn {
+  padding: 12px 16px;
+  border: none;
+}
+
+#filesform img{
+  width: 3.5%;
+}
+#comprasform img{
+  width: 3.5%;
+}
+
+#filesform button{
+  padding: 0px 0px;
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+form#filesform {
+  background-color: #96d0c0;
+
+}
+.modal-header, .modal-footer{
+  background-color: #154360 ;
+  color:white;
+}
+
+.btn {
+  border-style: solid;
+  border: 50%;
+  box-shadow: 50%;
+}
+
+#AbonosPrestamos_data, #prestamos_data{
+  font-size: 15px;
+}
